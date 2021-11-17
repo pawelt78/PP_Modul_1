@@ -1,0 +1,9 @@
+#ignorujemy w gicie katalog idea
+.idea/
+
+#ignorujemy pliki z rozszerzeeniem .pyc, to są takie pliki tymczasowe
+*.pyc
+
+
+#to ignorowanie robimy, żeby git kontrolował tylko pliki
+#z naszym kodem źródłowym
