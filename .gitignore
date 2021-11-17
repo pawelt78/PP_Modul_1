@@ -1,5 +1,5 @@
 #ignorujemy w gicie katalog idea
-.idea/
+#.idea/
 
 #ignorujemy pliki z rozszerzeeniem .pyc, to są takie pliki tymczasowe
 *.pyc
